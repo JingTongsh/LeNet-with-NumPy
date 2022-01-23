@@ -1,0 +1,7 @@
+epoch 1 test accuracy 95.89%, evaluation time: 377.81 seconds
+epoch 2 finished; time: 3280.11 seconds
+epoch 2 test accuracy 97.64%, evaluation time: 365.10 seconds
+epoch 3 finished; time: 3274.38 seconds
+epoch 3 test accuracy 98.19%, evaluation time: 370.31 seconds
+epoch 4 finished; time: 3293.02 seconds
+epoch 4 test accuracy 98.48%, evaluation time: 366.70 seconds

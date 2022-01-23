@@ -1,0 +1,12 @@
+epoch 5 finished; time: 2767.44 seconds
+epoch 5 test accuracy 98.60%, evaluation time: 287.92 seconds
+epoch 6 finished; time: 2743.25 seconds
+epoch 6 test accuracy 98.41%, evaluation time: 284.87 seconds
+epoch 7 finished; time: 2749.18 seconds
+epoch 7 test accuracy 98.51%, evaluation time: 285.05 seconds
+epoch 8 finished; time: 2755.56 seconds
+epoch 8 test accuracy 98.56%, evaluation time: 288.99 seconds
+epoch 9 finished; time: 2775.91 seconds
+epoch 9 test accuracy 98.68%, evaluation time: 288.13 seconds
+epoch 10 finished; time: 2740.56 seconds
+epoch 10 test accuracy 98.65%, evaluation time: 295.27 seconds
